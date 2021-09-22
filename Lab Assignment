@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tutorial on basic HTML</title>
+        <meta charset="UTF-8"/>
+        <meta name="author" content="Faiz Ali Shah"/>
+        <meta name="keyword" content="html, images"/>
+    </head>
+    <body>
+
+        <!-- Below is the usage of heading tags -->
+        
+        <h1>My Name is Usman</h1>
+        <h2>I am 22 Years of age</h2>
+        <h3>I study CSomputer Science from COMSATS Abbotabad</h3>
+        <h4>I am in 5th semester</h4>
+
+
+
+        first line
+        <br/> <br/>
+        second line
+        <br/>
+        <a href="tutorials/advance_html.html">Tutorial</a> this is some tex after anchor tag
+        <br/>
+        
+        <p><b>Hello World. This course is on <ins>web technologies</ins>.</b> </p>
+        <p>
+            <b>
+                <i>
+                    Welcome to first lab of Web Technologies course. We will study about differetnt technologies used for the development of web sites.
+                </i>
+            </b>
+        </p>
+
+        <!-- Use title attribute intead of alt attribute-->
+
+        <img src="resources/images/ciit_logo.png" width="200px" height="200px" title="Logo of COMSATS University"/>
+
+        <table border="2">
+            <tr>
+                <th>Subject Name</th>
+                <th><b>Attendance status</th>
+            </tr>
+            <tr>
+                <td>Web Technologies</td>
+                
+            </tr>
+            <tr>
+                <td>Mian Muhammad Usman</td>
+                <td>Present</td>
+            </tr>
+        </table>
+
+    </body>
+</html>
